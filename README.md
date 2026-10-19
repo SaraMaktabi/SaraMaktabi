@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sara Maktabi 👋
 
-<!--
-**SaraMaktabi/SaraMaktabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 5th-year Engineering Student in Artificial Intelligence & Data Science at EMSI, Morocco.
 
-Here are some ideas to get you started:
+🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI and Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy turning data and AI technologies into practical solutions for real-world problems.
+
+### 🛠️ Tech Stack
+
+- Python | SQL
+- Machine Learning | Deep Learning
+- Generative AI | LLMs | RAG
+- Data Engineering | ETL/ELT
+- PostgreSQL | NoSQL | Neo4j
+- FastAPI | React
+- Docker | Git
+
+### 🚀 Featured Projects
+
+- **ThinkGrid** — Multi-Agent System for Technical Ticket Assignment
+- **Presales AI Platform** — LLM & RAG-based Technical Offer Generation
+- **Student Support Prediction** — Educational Data Analysis & Machine Learning
+- **Moroccan Used-Car Data Platform** — Data Engineering & Analytics
+
+### 📫 Contact
+
+- LinkedIn: [Sara Maktabi](https://www.linkedin.com/in/sara-maktabi-378336281/)
+- Email: Maktabisara9@gmail.com
